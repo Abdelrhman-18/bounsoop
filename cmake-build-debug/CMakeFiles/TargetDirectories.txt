@@ -1,0 +1,3 @@
+/Users/abdelrhmankhaled/Documents/bounsoop/cmake-build-debug/CMakeFiles/bounsoop.dir
+/Users/abdelrhmankhaled/Documents/bounsoop/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/abdelrhmankhaled/Documents/bounsoop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
